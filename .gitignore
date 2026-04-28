@@ -1,0 +1,23 @@
+# 매우 중요
+# Python cache 
+__pycache__/ 
+*.py[cod] 
+
+# Virtual environment 
+# 가장 중요한건 .venv/ 를 포함하는 것. 가상환경은 절대 깃에 올리지 말것
+.venv/   
+venv/ 
+env/ 
+
+# VS Code 
+.vscode/ 
+
+# Jupyter 
+.ipynb_checkpoints/ 
+
+# OS files 
+.DS_Store 
+Thumbs.db 
+
+# Environment files 
+.env
