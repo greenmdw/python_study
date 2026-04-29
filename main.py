@@ -1,1 +1,3 @@
-print("Hello, Python + Git + VS Code") 
+def greet(name): 
+    print(f"Hello, {name}") 
+greet("Python") 
