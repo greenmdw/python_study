@@ -7,3 +7,4 @@ VS code, python Git 연동 실습용 개인 프로젝트
 - 2026-10-31: 반복문 (study/04_loops.py)
 - 2026-11-01: 함수 (study/05_functions.py)
 - 2026-11-04: 리스트/튜플/딕셔너리/집합 (study/06_collections.py)
+- 2026-10-28: 문자열 연습 (study/07_string_practice.py)
