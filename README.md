@@ -12,3 +12,4 @@ VS code, python Git 연동 실습용 개인 프로젝트
 - 2026-09-24: 예외 처리 (study/09_exceptions.py)
 - 2026-09-25: 파일 입출력 (study/10_file_io.py)
 - 2026-11-12: 클래스와 객체 (study/11_classes.py)
+- 2026-11-20: 내장 모듈 (study/12_modules.py)
